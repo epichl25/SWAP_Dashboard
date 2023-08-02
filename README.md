@@ -1,6 +1,6 @@
 # SWAP-Dashboard
 
-This repository contains the firmware of the SWAP Dashboard designed for the Smart Water Auditing (Final Year) Project.
+This repository introduces the SWAP Dashboard designed for the Smart Water Auditing (Final Year) Project.
 
 
 ## Mechanism:
